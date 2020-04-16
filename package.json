@@ -1,0 +1,10 @@
+{
+  "name": "Workflow2MA2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sondre Ljovshin <sondreljovshin@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
+}
